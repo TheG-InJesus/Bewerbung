@@ -1,0 +1,13 @@
+* {
+    padding: 10px;
+    
+}
+
+#submit {
+    padding: 5px;
+    margin: 10px 0px 0px 0px;
+}
+
+#submit:hover {
+    color: #0099ff;
+}
